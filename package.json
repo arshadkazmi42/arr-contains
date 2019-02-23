@@ -1,0 +1,38 @@
+{
+  "name": "arr-contains",
+  "version": "1.0.0",
+  "description": "Checks if array contains all the values",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore .",
+    "pretest": "eslint --ignore-path .gitignore .",
+    "test": "node_modules/mocha/bin/mocha tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshadkazmi42/arr-contains.git"
+  },
+  "keywords": [
+    "array",
+    "arraycontains",
+    "array-contains",
+    "contains",
+    "array",
+    "has"
+  ],
+  "author": "Arshad Kazmi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arshadkazmi42/arr-contains/issues"
+  },
+  "homepage": "https://github.com/arshadkazmi42/arr-contains#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^5.11.1",
+    "eslint-config-strongloop": "^2.1.0",
+    "mocha": "^6.0.1"
+  }
+}
