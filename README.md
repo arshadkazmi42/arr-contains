@@ -1,6 +1,7 @@
 # arr-contains
 
 [![Build Status](https://travis-ci.com/arshadkazmi42/arr-contains.svg?branch=master)](https://travis-ci.com/arshadkazmi42/arr-contains)
+[![Github Repo Size](https://img.shields.io/github/repo-size/arshadkazmi42/arr-contains.svg)](https://github.com/arshadkazmi42/arr-contains)
 
 Check all values exists in the array
 
