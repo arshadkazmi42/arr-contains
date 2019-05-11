@@ -6,6 +6,7 @@
 [![NPM Downloads](https://img.shields.io/npm/dt/arr-contains.svg)](https://www.npmjs.com/package/arr-contains)
 [![NPM Version](https://img.shields.io/npm/v/arr-contains.svg)](https://www.npmjs.com/package/arr-contains)
 [![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/arr-contains.svg)](https://github.com/arshadkazmi42/arr-contains/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/arr-contains.svg)](https://github.com/arshadkazmi42/arr-contains/commits/master)
 
 Check all values exists in the array
 
