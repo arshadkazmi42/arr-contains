@@ -1,6 +1,6 @@
 {
   "name": "arr-contains",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Checks if array contains all the values",
   "main": "index.js",
   "directories": {
