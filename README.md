@@ -1,10 +1,10 @@
 # arr-contains
 
-[![Build Status](https://travis-ci.com/arshadkazmi42/arr-contains.svg?branch=master)](https://travis-ci.com/arshadkazmi42/arr-contains)
-[![Github Repo Size](https://img.shields.io/github/repo-size/arshadkazmi42/arr-contains.svg)](https://github.com/arshadkazmi42/arr-contains)
-[![LICENSE](https://img.shields.io/npm/l/arr-contains.svg)](https://github.com/arshadkazmi42/arr-contains/LICENSE)
-[![NPM Downloads](https://img.shields.io/npm/dt/arr-contains.svg)](https://www.npmjs.com/package/arr-contains)
+[![Build](https://github.com/arshadkazmi42/arr-contains/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/arr-contains/actions/workflows/nodejs.yml)
 [![NPM Version](https://img.shields.io/npm/v/arr-contains.svg)](https://www.npmjs.com/package/arr-contains)
+[![NPM Downloads](https://img.shields.io/npm/dt/arr-contains.svg)](https://www.npmjs.com/package/arr-contains)
+[![Github Repo Size](https://img.shields.io/github/repo-size/arshadkazmi42/arr-contains.svg)](https://github.com/arshadkazmi42/arr-contains)
+[![LICENSE](https://img.shields.io/npm/l/arr-contains.svg)](https://github.com/arshadkazmi42/arr-contains/blob/master/LICENSE)
 [![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/arr-contains.svg)](https://github.com/arshadkazmi42/arr-contains/graphs/contributors)
 [![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/arr-contains.svg)](https://github.com/arshadkazmi42/arr-contains/commits/master)
 
